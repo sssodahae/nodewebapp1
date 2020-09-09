@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/94975794-571f-4da0-8aa0-5f3f4d81ca52/resourceGroups/sdh-nodeapp-rg/providers/Microsoft.Web/sites/sodanodeapp1",
+    "appService.deploySubpath": "."
+}
